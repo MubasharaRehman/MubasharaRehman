@@ -24,12 +24,42 @@ I collaborate closely with **Centro di Riferimento Oncologico di Aviano (CRO)** 
 
 ---
 
-## 🔬 Research Highlights
-- **H3D-Net (2025):** 3D Dual-Encoder Hybrid Network for metal artifact reduction via CT domain transformation *(JBHI under review)*  
-- **ReMAR-DS (2025):** Encoder–decoder with recalibrated skip connections for MAR *(ICIAP 2025)*  
-- **MAR-DTN (2024):** First domain transformation model for kVCT → MVCT *(ICPR 2024, LNCS Vol. 15311)*  
+## 🔬 Research Highlights / Publications  
 
-👉 Check my [Publications](#) section for details.
+- **MAR-VDTN: Multi-Modal Alignment Automation and 2.5D Volumetric CT Domain Transformation with Metal Artifact Reduction for Radiotherapy Planning**  
+  *Mubashara Rehman, Niki Martinel, Michele Avanzo, Riccardo Spizzo, Christian Micheloni*  
+  _Under review at International Journal of Computer Assisted Radiology and Surgery, 2026._  
+
+- **H3D-MarNet: 3D Dual-Encoder Hybrid Network for Implicit Metal Artifact Reduction via CT Domain Transformation**  
+  *Mubashara Rehman, Niki Martinel, Michele Avanzo, Riccardo Spizzo, Christian Micheloni*  
+  _Under review at IEEE Journal of Biomedical and Health Informatics (JBHI), 2026._  
+
+- **WAVEFORM-Net: Wavelet-Enhanced Frequency Fusion for Transformer-Based Metal Artifact Reduction in CT Domain Translation**  
+  *Mubashara Rehman, Niki Martinel, Michele Avanzo, Riccardo Spizzo, Christian Micheloni*  
+  _Under review at IEEE Journal of Biomedical and Health Informatics (JBHI), July 2026._  
+
+- **ReMAR-DS: Recalibrated Feature Learning for Metal Artifact Reduction and CT Domain Transformation**  
+  *Mubashara Rehman, Niki Martinel, Michele Avanzo, Riccardo Spizzo, Christian Micheloni*  
+  _Accepted at the 23rd International Conference on Image Analysis and Processing (ICIAP), Sept. 2025._  
+  [ArXiv Preprint](https://arxiv.org/pdf/2506.19531)  
+
+- **Report on the Hands-On PhD Course on Responsible AI from the Lens of an Information Access Researcher**  
+  *Damiano Spina, Kevin Roitero, Stefano Mizzaro, Vincenzo Della Mea, Francesca Da Ros, Michael Soprano, Mubashara Rehman, et al.*  
+  _ACM SIGIR Forum, Vol. 58, Issue 2, pp. 1–61, ACM, Mar. 2025._  
+  [DOI](https://dl.acm.org/doi/10.1145/3722449.3722456)  
+
+- **MAR-DTN: Metal Artifact Reduction using Domain Transformation Network for Radiotherapy Planning**  
+  *Mubashara Rehman, Niki Martinel, Michele Avanzo, Riccardo Spizzo, Christian Micheloni*  
+  _27th International Conference on Pattern Recognition (ICPR), June 2024._  
+  [DOI](https://doi.org/10.1007/978-3-031-78195-7_10)  
+
+- **A Fast and Robust Embedded Optical Flow Unit on Motion Estimation**  
+  *Mubashara Rehman, Chung Ming Own, Ziqi Li*  
+  _10th International Conference on Software and Computer Applications (ICSCA), Feb. 2021, pp. 180–185._  
+  [DOI](https://doi.org/10.1145/3457784.3457813)  
+
+
+👉 See my [Publications](#research-highlights--publications) or download my full [CV](https://mubashararehman.github.io/data/CV_Mubashara_.pdf).
 
 ---
 
