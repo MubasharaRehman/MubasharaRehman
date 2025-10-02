@@ -5,7 +5,6 @@ _PhD Student in Computer Vision & Medical Imaging_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashara-rehman)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WYLi7mgAAAAJ&hl=it)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/)  
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white)](mailto:your.email@uniud.it)
 
 ---
