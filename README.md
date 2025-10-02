@@ -70,6 +70,7 @@ I collaborate closely with **Centro di Riferimento Oncologico di Aviano (CRO)** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img src="https://www.slicer.org/w/images/4/4b/3DSlicerLogo-Vertical.png" width="40" height="40" alt="3D Slicer"/>
 </p>
 
 ---
