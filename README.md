@@ -12,7 +12,7 @@ _PhD Student in Computer Vision & Medical Imaging_
 </div>
 
 ## 👩‍🏫 About Me
-I am a **PhD student** at the [MLP Lab](https://machinelearning.uniud.it/), University of Udine, Italy.  
+I am a **PhD student** at the [Machine Learning and Perception Lab](https://machinelearning.uniud.it/), University of Udine, Italy.  
 My research focuses on **low-level vision and medical imaging**, particularly:  
 
 - 🩻 **Metal Artifact Reduction (MAR)** in CT Imaging  
