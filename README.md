@@ -65,7 +65,7 @@ Submitted to *IEEE Transactions on Computational Imaging (TCI), 2026*.
 
 ### 🩻 IRCCS Centro di Riferimento Oncologico di Aviano (CRO), Italy
 
-**Research Collaborator** · Sept. 2023 – Present
+**Research Collaborator** · Sept. 2023 – Sept. 2026
 
 Research collaboration focused on AI-driven medical imaging for radiotherapy, including:
 
