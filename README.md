@@ -221,7 +221,7 @@ Fatima Jinnah Women University, Pakistan · 2012–2016
 
 * **LinkedIn:** [linkedin.com/in/mubashara-rehman](https://www.linkedin.com/in/mubashara-rehman)
 * **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=WYLi7mgAAAAJ&hl=it)
-* **CV:** [Download CV](https://mubashararehman.github.io/data/CV_Mubashara_.pdf)
+* **CV:** [Download CV](https://mubashararehman.github.io/data/Mubashara_Rehman_CV_Sep-2026.pdf)
 
 ---
 
